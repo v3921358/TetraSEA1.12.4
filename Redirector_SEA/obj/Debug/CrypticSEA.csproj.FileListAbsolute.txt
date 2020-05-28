@@ -1,0 +1,11 @@
+E:\backup\alcovezero\areumaplezero\Redirector_SEA\obj\Debug\ResolveAssemblyReference.cache
+E:\backup\alcovezero\areumaplezero\Redirector_SEA\obj\Debug\ResGen.read.1.tlog
+E:\backup\alcovezero\areumaplezero\Redirector_SEA\obj\Debug\ResGen.write.1.tlog
+E:\backup\alcovezero\areumaplezero\Redirector_SEA\obj\Debug\CrypticSEA.frmMain.resources
+E:\backup\alcovezero\areumaplezero\Redirector_SEA\obj\Debug\CrypticSEA.SettingsForm.resources
+E:\backup\alcovezero\areumaplezero\Redirector_SEA\bin\Debug\CrypticSEA.exe.config
+E:\backup\alcovezero\areumaplezero\Redirector_SEA\bin\Debug\CrypticSEA.exe
+E:\backup\alcovezero\areumaplezero\Redirector_SEA\bin\Debug\CrypticSEA.pdb
+E:\backup\alcovezero\areumaplezero\Redirector_SEA\obj\Debug\CrypticSEA.Properties.Resources.resources
+E:\backup\alcovezero\areumaplezero\Redirector_SEA\obj\Debug\CrypticSEA.exe
+E:\backup\alcovezero\areumaplezero\Redirector_SEA\obj\Debug\CrypticSEA.pdb
